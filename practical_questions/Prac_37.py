@@ -1,0 +1,1 @@
+##37.	How do you handle the scenario of testing a website with different time zones using Selenium WebDriver in Python?
